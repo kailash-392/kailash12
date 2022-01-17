@@ -1,1 +1,1 @@
-print("kailash");
+nikhil =input ("party leda nikhil : yes/no")
